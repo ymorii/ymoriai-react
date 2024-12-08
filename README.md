@@ -1,5 +1,9 @@
 # MoriAI Project with React,Vite, Javascript, Tailwind, Appwrite, and Gemini API
 
+
+![MoriAI Feature](https://i.ibb.co/1K37hqy/Screenshot-2024-12-08-211801.png)
+
+
 This project is an AI-based web application built with ReactJS, TailwindCSS, and Appwrite for user authentication and data management. The app leverages the Gemini API for AI-powered functionalities.
 
 ## Features
