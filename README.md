@@ -18,10 +18,14 @@ This project is an AI-based web application built with ReactJS, TailwindCSS, and
 - **Backend**: Appwrite (for authentication and database management)
 - **AI Integration**: Gemini API
 
-## Setup
-
 ### Prerequisites
 
 - Node.js (v16 or later)
 - Appwrite Server or Appwrite Cloud Account
 - Gemini API Access Key
+
+## Link Website
+
+https://moriai.netlify.app
+
+
